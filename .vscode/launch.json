@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "./var.dart"
+            "program": "./bool.dart"
         }
     ]
 }
